@@ -28,6 +28,9 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+
+# Output :
+
 ```
 
 
@@ -66,11 +69,6 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 
-
-
-
-
-# Output 
 <img width="712" height="542" alt="image" src="https://github.com/user-attachments/assets/710656f2-ab9f-45da-a0eb-1e334bf541f9" />
 
 # Result
